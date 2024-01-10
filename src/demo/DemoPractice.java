@@ -8,14 +8,10 @@ public class DemoPractice {
 		System.out.println("Mabood Wahab");
 
 	
-		int a = 2;
-		int b = 4;
-		System.out.println(a +b);
-
-		public static void add(int a, int b) {
-			System.out.println(a + b);
-
-			System.out.println("Today is not Friday");
+		System.out.println("Today is Tuesday");
+		
+		System.out.println("Java is fun");
+			
 			
 	}
 	}
